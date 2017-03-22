@@ -1,0 +1,51 @@
+#hardwaretype {
+  width: 30%;
+  float: left;
+}
+
+#hardwareother {
+  display: none;
+}
+
+#manufacturerother {
+  display: none;
+}
+
+#reseller {
+  width: 30%;
+  float: left;
+}
+
+#resellerother {
+  display: none;
+}
+
+#statusPara {
+  width: 30%;
+  float: left;
+}
+
+.hardwareTitel {
+  width: 30%;
+  float: right;
+  margin-right: 40%;
+}
+
+.hardwarePrice {
+  width: 30%;
+  float: right;
+  margin-right: 40%;
+}
+
+.currencyinput {
+    border: 1px inset #ccc;
+}
+.currencyinput input {
+    border: 0;
+}
+
+.userHardware {
+  width: 50%;
+  float: right;
+  margin-right: 20%;
+}
